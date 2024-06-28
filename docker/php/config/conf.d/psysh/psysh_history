@@ -1,0 +1,5 @@
+config('app.key')
+env('APP_KEY')
+exit
+env('APP_KEY')
+config('app.key')
